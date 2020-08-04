@@ -4,6 +4,7 @@
 
 ## windows需要编译环境 
 ```bash
+# npm i 报错内容
 gyp ERR! find VS msvs_version not set from command line or npm config
 gyp ERR! find VS VCINSTALLDIR not set, not running in VS Command Prompt
 gyp ERR! find VS could not use PowerShell to find Visual Studio 2017 or newer
