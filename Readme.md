@@ -27,7 +27,6 @@ gyp ERR! stack Error: Could not find any Visual Studio installation to use
 $ npm install --global --production windows-build-tools
 ```
 
-## 
 
 
 
