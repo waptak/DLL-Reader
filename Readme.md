@@ -23,7 +23,7 @@ gyp ERR! configure error
 gyp ERR! stack Error: Could not find any Visual Studio installation to use
 
 
-# 需要安装 python 2.7，以下命令已包含
+#  需要安装 python 2.7，以下命令已包含  使用PowerShell 管理员模式执行此命令
 $ npm install --global --production windows-build-tools
 ```
 
